@@ -24,7 +24,7 @@
 
 
 
-#### Social Networks 👇🏽
+#### Redes Sociais 👇🏻
 
 
    <a href="https://www.instagram.com/kevensoares.2131/" target="_blank"><img src="https://img.shields.io/badge/-Keven%20Soares-6633cc?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a> 
