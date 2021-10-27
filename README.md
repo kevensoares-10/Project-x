@@ -29,7 +29,7 @@
 
    <a href="https://www.instagram.com/kevensoares.2131/" target="_blank"><img src="https://img.shields.io/badge/-Keven%20Soares-6633cc?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href="mailto:kevensoares.2131@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-kevensoares.2131@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a> 
-<!-- <a href="https://www.linkedin.com/in/brunoss18/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> -->
+<a href="https://www.linkedin.com/in/keven-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-Bruno%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
  
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevensoares-10&layout=compact&langs_count=7&theme=white"/>
